@@ -24,3 +24,9 @@ int count_even_digits(long long number, int count = 0) {
 
 	return count;
 }
+
+//int sum_of_array_negative_element(int array, int size) {
+//
+//
+//
+//}
